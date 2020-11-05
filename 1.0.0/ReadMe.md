@@ -1,4 +1,4 @@
-![Icon](https://github.com/rvalla/CalAc/blob/master/assets/img/icon_64.png)
+![Icon](https://gitlab.com/musicaltools/calpcs/-/raw/master/assets/img/icon_64.png)
 
 # CalPCS
 
